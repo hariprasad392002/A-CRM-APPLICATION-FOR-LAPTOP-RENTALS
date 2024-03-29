@@ -1,1 +1,31 @@
+Name of the Student: Varada Hariprasad
+Learning Track: Developer
+Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
+Trailhead Profile: https://www.salesforce.com/trailblazer/hariprasadvarada
+Developer Org Username: varadahariprasad99@gdcproject.com
+Developer Org Password: Gayatri@123
+Position: Team Leader
 
+Name of the Project: Dommaraju Deva
+Learning Track: Administrator
+Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
+Trailhead Profile: https://www.salesforce.com/trailblazer/dommarajudeva 
+Developer Org Username: deva@gdctirupathi.com
+Developer Org Password: Gayatri@123
+Position: Team Member
+
+Name of the Project: Sunkarla Varun Kumar
+Learning Track: Administrator
+Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
+Trailhead Profile: https://www.salesforce.com/trailblazer/varunsunkarla
+Developer Org Username: varunkumar611977@gsdcproject.com
+Developer Org Password: Gayatri@123
+Position: Team Member
+
+Name of the Student: Muragareddy Ganeshreddy
+Learning Track: Administrator
+Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
+Trailhead Profile: https://www.salesforce.com/trailblazer/ganeshreddymuragareddy  
+Developer Org Username: ganeshreddy96764@gsdcproject.com
+Developer Org Password: Gayatri@123
+Position: Team Member
