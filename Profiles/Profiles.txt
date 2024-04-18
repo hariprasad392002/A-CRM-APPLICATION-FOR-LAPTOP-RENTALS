@@ -14,18 +14,10 @@ Developer Org Username: deva@gdctirupathi.com
 Developer Org Password: Gayatri@123
 Position: Team Member
 
-Name of the Project: Sunkarla Varun Kumar
-Learning Track: Administrator
+Name of the Project: 
+Learning Track: 
 Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
-Trailhead Profile: https://www.salesforce.com/trailblazer/varunsunkarla
-Developer Org Username: varunkumar611977@gsdcproject.com
-Developer Org Password: Gayatri@123
-Position: Team Member
-
-Name of the Student: Muragareddy Ganeshreddy
-Learning Track: Administrator
-Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
-Trailhead Profile: https://www.salesforce.com/trailblazer/ganeshreddymuragareddy  
-Developer Org Username: ganeshreddy96764@gsdcproject.com
+Trailhead Profile: 
+Developer Org Username: 
 Developer Org Password: Gayatri@123
 Position: Team Member
