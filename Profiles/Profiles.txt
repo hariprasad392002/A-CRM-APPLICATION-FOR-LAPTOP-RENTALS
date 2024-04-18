@@ -6,7 +6,7 @@ Developer Org Username: varadahariprasad99@gdcproject.com
 Developer Org Password: Gayatri@123
 Position: Team Leader
 
-Name of the Project: Dommaraju Deva
+Name of the Student: Dommaraju Deva
 Learning Track: Administrator
 Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
 Trailhead Profile: https://www.salesforce.com/trailblazer/dommarajudeva 
@@ -14,7 +14,7 @@ Developer Org Username: deva@gdctirupathi.com
 Developer Org Password: Gayatri@123
 Position: Team Member
 
-Name of the Project: 
+Name of the Student: 
 Learning Track: 
 Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
 Trailhead Profile: 
