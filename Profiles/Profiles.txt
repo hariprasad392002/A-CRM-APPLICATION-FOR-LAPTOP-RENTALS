@@ -14,10 +14,10 @@ Developer Org Username: deva@gdctirupathi.com
 Developer Org Password: Gayatri@123
 Position: Team Member
 
-Name of the Student: 
-Learning Track: 
+Name of the Student: Avilala Ravi Kumar
+Learning Track: Developer
 Project Name: A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
-Trailhead Profile: 
-Developer Org Username: 
+Trailhead Profile: https://www.salesforce.com/trailblazer/ravikumaravilala2768
+Developer Org Username: aravikumary806@gdctirupathi.com
 Developer Org Password: Gayatri@123
 Position: Team Member
